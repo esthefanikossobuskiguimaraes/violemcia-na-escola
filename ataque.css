@@ -1,0 +1,58 @@
+
+#ataque1 {
+	width: 70%;
+	margin-left: 10%;
+}
+
+body{
+	background-color: #ffc289;
+    }
+
+.principal{
+	background: #ffc289
+	padding  50px;
+}	
+
+.titulo-principal {
+	padding-left: 600px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-transform: justify;
+	font-size: 20px;
+}
+
+#missao {
+	font-size: 50px
+}
+
+em strong {
+	background-color: #ffc289
+	color:
+}
+
+.itens {
+	font-style: italic
+}
+
+.beneficios {
+	background: #ffc289 
+	padding: 30px;
+	text-align: justify;
+}
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 15%;
+	margin-right: 55%;
+	text-align: justify;
+}
+
+#ataque2{
+	width: 300%;
+    margin-left: 150%
+}
